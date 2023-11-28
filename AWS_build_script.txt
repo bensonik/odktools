@@ -23,6 +23,8 @@ cd csv2xlsx
 sudo go build
 sudo cp csv2xlsx /bin
 
+cd /opt
+
 sudo git clone https://github.com/qlands/odktools.git
 sudo mkdir odktools-deps
 cd odktools-deps
